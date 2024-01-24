@@ -28,4 +28,14 @@ export const Container = styled.div`
         transform: scale(1.08);
         background-color: #30beff;
     }
+
+    h3 {
+        color: red;
+        margin: 20px auto 20px;
+    }
+
+    p {
+        color: red;
+        margin-bottom: 20px;
+    }
 `

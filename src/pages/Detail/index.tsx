@@ -60,6 +60,11 @@ export const Detail = () => {
           setDetail(resultData)
           setLoading(false)
         })
+        .catch(() => {
+          // console.log("Erro!")
+          // console.log(error)
+          navigate("*")
+        })
     }
 
     getData()
