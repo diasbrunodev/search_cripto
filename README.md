@@ -23,6 +23,7 @@
 <p align="justify">
  Projeto desenvolvido para exibir as informações mais relevantes das principais moedas digitais, através do consumo de uma API.
 
+
 ![layout página principal](./src/assets/images/img1.png)
 
 </p>
@@ -31,7 +32,7 @@
 
 :heavy_check_mark: `Funcionalidade 1:` Exibir dados das principais moedas digitais, de forma automática, e sendo atualizadas em tempo real.
 
-:heavy_check_mark: `Funcionalidade 2:` Formatar dados trazidos pela api para o formato do real brasileiro, exibindo-os no formato de uma lista.
+:heavy_check_mark: `Funcionalidade 2:` Formatar dados trazidos pela api para o formato real brasileiro, exibindo-os conforme uma lista.
 
 :heavy_check_mark: `Funcionalidade 3:` Campo de busca para pesquisar a moeda desejada.
 
