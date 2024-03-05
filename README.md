@@ -75,5 +75,3 @@ npm run dev
 ## Desenvolvedor
 
 [<img src="./src/assets/images/bruno.jpg" width=115><br><sub>Bruno Dias de Freitas</sub>](https://github.com/diasbrunodev)
-
-[Linkedin](www.linkedin.com/in/brunodias-dev)
