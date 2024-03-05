@@ -51,13 +51,13 @@
 
 ## Ferramentas utilizadas
 
-<a href="https://react.dev/" target="_blank"> <img src="./src/assets/images/react.png" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="./src/assets/images/Typescript.png" alt="typescript" width="40" height="40"/> </a>
+<a href="https://react.dev/" style='text-decoration:none' target="_blank"> <img src="./src/assets/images/react.png" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" style='text-decoration:none' target="_blank"> <img src="./src/assets/images/Typescript.png" alt="typescript" width="40" height="40"/> </a>
 
 ###
 
 ## Acesso ao projeto
 
-Você pode [acessar o site projeto](https://search-cripto-dias.vercel.app/).
+Você pode [acessar o site do projeto](https://search-cripto-dias.vercel.app/).
 
 ## Abrir e rodar o projeto
 
