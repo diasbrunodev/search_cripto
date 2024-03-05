@@ -8,6 +8,8 @@
 
 - [Funcionalidades](#funcionalidades)
 
+- [Layout](#layout)
+
 - [Ferramentas utilizadas](#ferramentas-utilizadas)
 
 - [Acesso ao projeto](#acesso-ao-projeto)
