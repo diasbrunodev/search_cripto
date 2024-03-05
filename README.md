@@ -8,8 +8,6 @@
 
 - [Funcionalidades](#funcionalidades)
 
-- [Aplicação](#aplicação)
-
 - [Ferramentas utilizadas](#ferramentas-utilizadas)
 
 - [Acesso ao projeto](#acesso-ao-projeto)
@@ -22,7 +20,6 @@
 
 <p align="justify">
  Projeto desenvolvido para exibir as informações mais relevantes das principais moedas digitais, através do consumo de uma API.
-
 
 ![layout página principal](./src/assets/images/img1.png)
 
