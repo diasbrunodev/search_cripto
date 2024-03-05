@@ -16,7 +16,7 @@
 
 - [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
 
-- [Desenvolvedor](#desenvolvedores)
+- [Desenvolvedor](#desenvolvedor)
 
 ## Descrição do projeto
 
