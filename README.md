@@ -1,30 +1,83 @@
-# React + TypeScript + Vite
+![logo DevCurrency](./src/assets/images/img4.png)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<hr>
 
-Currently, two official plugins are available:
+<p align="center">
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge" #vitrinedev/>
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Tópicos
 
-## Expanding the ESLint configuration
+- [Descrição do projeto](#descrição-do-projeto)
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- [Funcionalidades](#funcionalidades)
 
-- Configure the top-level `parserOptions` property like this:
+- [Aplicação](#aplicação)
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
+- [Ferramentas utilizadas](#ferramentas-utilizadas)
+
+- [Acesso ao projeto](#acesso-ao-projeto)
+
+- [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
+
+- [Desenvolvedores](#desenvolvedores)
+
+## Descrição do projeto
+
+<p align="justify">
+ Projeto desenvolvido para exibir as informações mais relevantes das principais moedas digitais, através do consumo de uma API.
+
+![layout página principal](./src/assets/images/img1.png)
+
+</p>
+
+## Funcionalidades
+
+:heavy_check_mark: `Funcionalidade 1:` Exibir dados das principais moedas digitais, de forma automática, e sendo atualizadas em tempo real.
+
+:heavy_check_mark: `Funcionalidade 2:` Formatar dados trazidos pela api para o formato do real brasileiro, exibindo-os no formato de uma lista.
+
+:heavy_check_mark: `Funcionalidade 3:` Campo de busca para pesquisar a moeda desejada.
+
+:heavy_check_mark: `Funcionalidade 4:` Ao clicar na moeda digital, abre uma nova página com dados mais detalhados sobre a mesma.
+
+## Layout
+
+<div align="center">
+
+![layout página após a busca por uma moeda específica](./src/assets/images/img2.png)
+
+<img style='width:200px' src='./src/assets/images/img3.png' alt='layout responsivo para celular'>
+
+  </div>
+
+###
+
+## Ferramentas utilizadas
+
+<a href="https://react.dev/" target="_blank"> <img src="./src/assets/images/react.png" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="./src/assets/images/Typescript.png" alt="typescript" width="40" height="40"/> </a>
+
+###
+
+## Acesso ao projeto
+
+Você pode [acessar o site projeto](https://search-cripto-dias.vercel.app/).
+
+## Abrir e rodar o projeto
+
+```cmd
+# Clone este repositório
+git clone <link do repositório>
+
+# Acesse a pasta do projeto no seu terminal
+cd search_cripto
+
+# Execute a aplicação
+npm run dev
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## Desenvolvedor
+
+[<img src="./src/assets/images/bruno.jpg" width=115><br><sub>Bruno Dias de Freitas</sub>](https://github.com/diasbrunodev)
+
+[Linkedin](www.linkedin.com/in/brunodias-dev)
