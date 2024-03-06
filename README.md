@@ -51,8 +51,7 @@
 
 ## Ferramentas utilizadas
 
-<a href="https://react.dev/" style='text-decoration:none' target="_blank"> <img src="./src/assets/images/react.png" alt="react" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" style='text-decoration:none' target="_blank"> <img src="./src/assets/images/Typescript.png" alt="typescript" width="40" height="40"/> </a><a href="https://www.javascript.com/" style='text-decoration:none' target="_blank"> <img src="./src/assets/images/javascript.png" alt="javascript" width="40" height="40"/> </a><a href="https://www.w3schools.com/cssref/index.php" style='text-decoration:none' target="_blank"> <img src="./src/assets/images/css.png" alt="css" width="40" height="40"/> </a><a href="https://html.com/" style='text-decoration:none' target="_blank"> <img src="./src/assets/images/html.jpeg" alt="html" width="40" height="40"/> </a><a href="https://git-scm.com/" style='text-decoration:none' target="_blank"> <img src="./src/assets/images/git.png" alt="html" width="40" height="40"/> </a>
+<img src="./src/assets/images/react.png" alt="react" width="40" height="40"/> <img src="./src/assets/images/Typescript.png" alt="typescript" width="40" height="40"/> <img src="./src/assets/images/javascript.png" alt="javascript" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="html" width="40" height="40"/> </a>
 
 - React
 - TypeScript
